@@ -1,9 +1,6 @@
-<!-- PROJECT TITLE -->
-<h1 align="center">📊 Retail Sales Analytics Project (Excel)</h1>
+# 📊 Retail Sales Analytics Project (Excel)
 
-<p align="center">
-  <em>A professional Excel-based data analysis project featuring functions, pivot tables, dashboards, and interactive slicers.</em>
-</p>
+*A professional Excel-based data analysis project featuring functions, pivot tables, dashboards, and interactive slicers.*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-Data%20Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
@@ -33,14 +30,14 @@ The final workbook includes a fully functional analytics dashboard built entirel
 
 ### 🔢 **Functions**
 
-| Function | Purpose |
-|---------|---------|
-| **SUM()** | Calculate totals (sales, quantities, revenue) |
-| **SUMIF()** | Conditional totals by region, category, or date |
-| **AVERAGE()** | Measure average sales | 
-| **AVERAGEIF()** | Conditional averages | 
-| **VLOOKUP()** | Retrieve product/customer information | 
-| **Formatting** | Clean, readable, professional structure |
+| Function       | Purpose                                            |
+|----------------|----------------------------------------------------|
+| **SUM()**      | Calculate totals (sales, quantities, revenue)      |
+| **SUMIF()**    | Conditional totals by region, category, or date    |
+| **AVERAGE()**  | Measure average sales                              | 
+| **AVERAGEIF()**| Conditional averages                               | 
+| **VLOOKUP()**  | Retrieve product/customer information              | 
+| **Formatting** | Clean, readable, professional structure            |
 
 ---
 
@@ -54,7 +51,7 @@ PivotTables were used to generate insights such as:
 - Best-selling products  
 - Customer segmentation  
 
-PivotCharts translated these insights into visual, interactive elements.
+PivotCharts transformed these insights into visual, interactive elements.
 
 ---
 
@@ -62,14 +59,55 @@ PivotCharts translated these insights into visual, interactive elements.
 
 The dashboard includes slicers for:
 
-- Region  
 - Product Category  
-- Date / Period  
-- Sales Channel  
+- Gender  
+- Generation  
 
 These slicers make the dashboard dynamic and user-friendly, enabling quick comparisons and deep dives.
 
 ---
+
+## 🖼️ Screenshots
+
+### 📊 **Final Dashboard**
+> *Interactive, slicer-driven Excel dashboard.*
+
+<img width="1240" height="741" alt="image" src="https://github.com/user-attachments/assets/4ab1e8fd-997a-44db-9ac2-9e1e871d2d26" />
+
+---
+
+### 📋 **Raw Data Sheet**
+> *Cleaned and structured dataset used for analysis.*
+
+<img width="1620" height="757" alt="image" src="https://github.com/user-attachments/assets/4eaf7953-9c59-4d5e-b2d9-539f79e0e675" />
+
+---
+
+### 📈 **PivotTable Example**
+> *PivotTable summarizing key sales metrics.*
+
+<img width="450" height="240" alt="image" src="https://github.com/user-attachments/assets/074b7f0e-d4a7-42d1-9014-6b2fb136ee5a" />
+
+---
+
+### 📉 **PivotChart Example**
+> *Visualizing product performance.*
+
+<img width="1082" height="365" alt="image" src="https://github.com/user-attachments/assets/f3e9abf3-3865-4c0e-a670-c893cbaa012a" />
+
+
+---
+
+### 🔍 **VLOOKUP in Action**
+> *Example showing VLOOKUP used to retrieve product or customer details from the master dataset.*
+
+<img width="737" height="293" alt="image" src="https://github.com/user-attachments/assets/db1030ba-5977-4db3-8311-54413a3202c9" />
+
+---
+
+
+
+
 
 
 
